@@ -1,0 +1,1 @@
+gcc -lpthread simple_thread_with_multiple_args.c
